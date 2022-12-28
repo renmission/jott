@@ -1,3 +1,3 @@
-# JOTT | Note Taking App with https://vitejs.dev/
+# JOTT | Note Taking App with vitejs.dev
 
 - Build with React, TypeScript and React Bootstrap
